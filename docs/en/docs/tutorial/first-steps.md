@@ -8,8 +8,6 @@ Copy that to a file `main.py`.
 
 Run the live server:
 
-////
-
 //// tab | Linux, macOS
 
 <div class="termy">
